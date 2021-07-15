@@ -19,11 +19,11 @@ section
                 p.h4.mb-0.me-3.banner-principal__datos__item__titulo Código: 
                 p.banner-principal__datos__item__texto 133100
               li.mb-3.banner-principal__datos__item
-                p.h4.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
+                p.h4.mb-0.me-3.banner-principal__datos__item__titulo Total: 
                 p.banner-principal__datos__item__texto 2208 horas
               li.mb-3.banner-principal__datos__item
-                p.h4.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
-                p.banner-principal__datos__item__texto 14 meses
+                p.h4.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
+                p.banner-principal__datos__item__texto 15 meses
               li.mb-3.banner-principal__datos__item
                 p.h4.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual              
