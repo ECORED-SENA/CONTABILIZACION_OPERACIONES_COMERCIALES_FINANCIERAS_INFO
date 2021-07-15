@@ -1,8 +1,8 @@
-# **sena-base-info-2021 v1.1.0**
+# **Contabilización de operaciones comerciales y financieras**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/CONTABILIZACION_OPERACIONES_COMERCIALES_FINANCIERAS_INFO/](https://ecored-sena.github.io/CONTABILIZACION_OPERACIONES_COMERCIALES_FINANCIERAS_INFO/)
 
 #
 
