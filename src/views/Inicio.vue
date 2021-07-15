@@ -31,7 +31,7 @@ section
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
-            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/tQrEK7qJgvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>          
+            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/hMa7z8ltG24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>              
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
@@ -105,30 +105,30 @@ section
         | 240201528 - Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales. Matemáticas.
       li
         i.lista-ul__vineta
-        | 240201528 - Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales. Matemáticas.
+        | 220501046 - Utilizar herramientas informáticas de acuerdo con las necesidades de manejo de información. TIC Tecnologías de la información y la comunicación.
       li
         i.lista-ul__vineta
-        | 240201528 - Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales. Matemáticas.
+        | 240202501 - Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales, según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas. Inglés.
       li
         i.lista-ul__vineta
-        | 240201528 - Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales. Matemáticas.
+        | 240201524 - Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo. Comunicación.
 
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 4. Perfil de ingreso
+      span.h4 4. Perfil de ingreso.
 
     ul.lista-ul--color.mb-0
       li
         i.fas.fa-check
-        | Superar la prueba de aptitud, motivación, interés y competencias mínimas de ingreso
+        | Superar la prueba de aptitud, motivación, interés y competencias mínimas de ingreso.
       li
         i.fas.fa-check
-        | Contar con certificado académico de grado 9°
+        | Contar con certificado académico de grado 9°.
       li.mb-0
         i.fas.fa-check
-        | Ser mayor de 14 años
+        | Ser mayor de 14 años.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
@@ -150,7 +150,7 @@ section
     p Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportada en la utilización de las tecnologías de la información y la comunicación; integrada en ambientes abiertos y pluritecnológicos que, en todo caso, recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
       br
       br
-      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento.
+      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
     
     ul.lista-ul--color.mb-0
       li
